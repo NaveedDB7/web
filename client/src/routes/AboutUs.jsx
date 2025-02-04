@@ -32,7 +32,7 @@ const AboutUs = () => {
               </p>
             </div>
             <div className="contact-item">
-              <h3>Muhammed Sirfan</h3>
+              <h3>Naveed </h3>
               <p>22BKT0147</p>
               <p>
                 <img src={mailLogo} alt="Mail Logo" className="mail-logo" />
